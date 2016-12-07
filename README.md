@@ -105,6 +105,10 @@ Any additional exercises in each workshop without a listed due date in the above
 table are optional. You will not be assessed on any optional exercises, but you
 may have to complete them to continue on to other required exercises.
 
+##LOG
+ first three excercises are similar to JS
+ Interesting that semi colons aren't required
+
 ## Additional Resources
 
 -   [Mozilla Developer Network: JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
