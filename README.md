@@ -108,6 +108,9 @@ may have to complete them to continue on to other required exercises.
 ##LOG
  first three excercises are similar to JS
  Interesting that semi colons aren't required
+ the fourth and fifth were way harder
+ had to lean heavily on the walthroughs
+ Still don't fully understand the solution to the fifth
 
 ## Additional Resources
 
